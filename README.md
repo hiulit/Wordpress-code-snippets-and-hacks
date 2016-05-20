@@ -1,5 +1,7 @@
 # Wordpress code snippets and hacks
 
+A collection of code snippets and hacks for Wordpress and some of its plugins.
+
 ## Let WordPress manage the document title
 
 Remove the `<title>` tag in your theme's `header.php`. It should look something like this:
