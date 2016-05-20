@@ -2,6 +2,13 @@
 
 A collection of code snippets and hacks for Wordpress and some of its plugins.
 
+**General**
+* [Let WordPress manage the document title](#let-wordpress-manage-the-document-title)
+
+**Anspress and Yoast SEO**
+* [Change Anspress' pages titles while using Yoast SEO plugin](#change-anspress-pages-titles-while-using-yoast-seo-plugin)
+* [Change Anspress' questions descriptions while using Yoast SEO plugin](#change-anspress-questions-descriptions-while-using-yoast-seo-plugin)
+
 ## Let WordPress manage the document title
 
 Remove the `<title>` tag in your theme's `header.php`. It should look something like this:
